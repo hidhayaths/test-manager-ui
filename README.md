@@ -1,11 +1,11 @@
-![alt text](screens/home.png "Home")
-![alt text](screens/search-tests.png "Search Tests")
-![alt text](screens/add-step.png "Add Step")
-![alt text](screens/edit-step.png "Edit Step")
-![alt text](screens/test-menu.png "Test Options")
-![alt text](screens/step-menu.png "Step Options")
-![alt text](screens/test-delete-confirmation.png "Delete Confirmation")
-![alt text](screens/notifications.png "Notifications")
+![HomeScreen](./screens/home.png "Home")
+![SerchTests](./screens/search-tests.png "Search Tests")
+![AddStep](./screens/add-step.png "Add Step")
+![EditStep](./screens/edit-step.png "Edit Step")
+![Test Options](./screens/test-menu.png "Test Options")
+![Step Options](./screens/step-menu.png "Step Options")
+![Alerts](./screens/test-delete-confirmation.png "Delete Confirmation")
+![Notifications](./screens/notifications.png "Notifications")
 
 # Getting Started with Create React App
 
